@@ -1,0 +1,24 @@
+{
+  "general":
+  {
+    "token": "",
+    "token_encrypted": false,
+    "owa-apikey": "",
+    "default_rssdelay": 10,
+    "default_prefix": "!"
+  },
+
+  "paths":
+  {
+    "database": "database/database.db"
+  },
+
+  "email":
+  {
+    "smtpHost": "",
+    "smtpPort": "25",
+    "fromEmail": "",
+    "password": "",
+    "toEmail": ""
+  }
+}
